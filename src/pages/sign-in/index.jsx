@@ -4,7 +4,7 @@ import { urls } from 'app/routes';
 
 const SignIn = () => (
   <div>
-    <Link to={urls.home()}> Go Back</Link>
+    <Link to={urls.home()}>Go Back</Link>
   </div>
 );
 
